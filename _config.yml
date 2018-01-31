@@ -15,8 +15,8 @@ defaults:
   values:
     layout: post
     permalink: "/posts/:title/"
-    date:
-    color:
+    date: 
+    color: 
 - scope:
     path: ''
     type: pages
