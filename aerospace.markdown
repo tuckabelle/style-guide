@@ -9,7 +9,7 @@ Headings:
 - font-family: 
   font-size: 
   color: 
-'Colors: Main':
+Primary Colors:
 - color: "#196c95"
 - color: "#5db6d0"
 - color: "#d66e42"
