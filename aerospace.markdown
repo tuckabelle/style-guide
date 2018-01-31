@@ -2,14 +2,14 @@
 title: Aerospace
 date: 2018-01-31 18:17:00 Z
 asset: 
-Headings:
-- font-family: Ariel
-  font-size: 40px
-  color: "#196c95"
-- font-family: Source Sans Pro
-  font-size: 28px
-  color: "#000000"
-Primary Colors:
+headings:
+- font-family: 
+  font-size: 
+  color: 
+- font-family: 
+  font-size: 
+  color: 
+primary_colors:
 - color: "#196c95"
 - color: "#5db6d0"
 - color: "#d66e42"
